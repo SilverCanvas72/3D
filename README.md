@@ -25,6 +25,10 @@ And then some questionably sized legs and arms...
 And then I decided to just make it the bust so that I would be alot easier to print.
 ![image](https://github.com/SilverCanvas72/3D/assets/173105295/8199e3de-156c-4ea3-a989-580d6935a60f)
 
+I added a tail
+![image](https://github.com/SilverCanvas72/3D/assets/173105295/933f7d2b-71ac-46fe-901a-ea02896951c2)
+
+
 
 
 
