@@ -1,12 +1,12 @@
-My 3d project/Projects:
+# Hakkun Model.
+![image](https://github.com/user-attachments/assets/907b1b0b-2f10-4236-8777-a9dbf76d2518)
+
+## Sketchfab Link :
+https://skfb.ly/p7ZL7 
 
 
-I just spent an hour playing around with Spline as I saw some cool stuff people had made. I found it resttrcitve and I only spent an hour on it.
-
-https://app.spline.design/file/c3e31c58-1c69-4bb6-9f69-0565b3e96ce6 
-![image](https://github.com/SilverCanvas72/3D/assets/173105295/8709e7c3-f3a8-4b6b-875d-2df136842863)
-
-![image](https://github.com/SilverCanvas72/3D/assets/173105295/a9efbec2-6dc8-42e0-8e84-4fe29b44be1d)
+<details>
+<summary>See Progress</summary>
 
 I then deicded I was going to make a model of Hakkuun. Porbally to print after wards as a sovennier of sorts.
 
@@ -28,12 +28,8 @@ And then I decided to just make it the bust so that I would be alot easier to pr
 I added a tail
 ![image](https://github.com/SilverCanvas72/3D/assets/173105295/933f7d2b-71ac-46fe-901a-ea02896951c2)
 
+</details>
 
-
-
-
-Note to reviewer - I saw it was said somewhere that I should document my progress in the read.me for not code related projects as proof.
-I really just typed up everything I already said in each session and commit. Was this nessacary?
 
 
 
